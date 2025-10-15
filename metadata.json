@@ -1,0 +1,7 @@
+{
+  "name": "Roy",
+  "description": "A futuristic camera app that uses AI to scan and identify 'Flam' cards, revealing details about their characters and powers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
